@@ -1,0 +1,5 @@
+EN:
+Track how much coffee you drank, rate types of coffee based on your experience.
+
+CZ:
+Zapisujte si, kolik jste vypili kávy, a hodnoťtě kávu podle vaší zkušenosti.

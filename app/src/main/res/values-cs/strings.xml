@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CoffeeApp</string>
+    <string name="coffeeSizeError">Velikost musí být vybrána</string>
+    <string name="coffeeError">Nesmí být prázdné</string>
+    <string name="starsError">Nejnižší možné hodnocení je jedna hvězdička</string>
+    <string name="title_activity_app_intro">Ahoj</string>
+    <string name="welcome_to">Vítejte v</string>
+    <string name="description_1">Zapisujte si kolik kávy jste vypili!</string>
+    <string name="title_2">Hodnoťte kávy</string>
+    <string name="description_2">Sledujte, který druh kávy je nejoblíbenější!</string>
+    <string name="go_to_app">Do aplikace</string>
+    <string name="number_of_people">Počet lidí</string>
+    <string name="add">Přidat</string>
+    <string name="select_size">Vyberte velikost</string>
+    <string name="name_of_coffee">Název kávy</string>
+    <string name="save">Uložit</string>
+    <string name="pay_description">Zaplaťte kávu pomocí QR kódu:</string>
+    <string name="pay_description_2">nebo zkopírujte číslo účtu:</string>
+    <string name="current_debt">Aktuální dluh</string>
+    <string name="currency">Kč</string>
+    <string name="mark_as_paid">Označit jako zaplacené</string>
+    <string name="weekly_coffee">Týdenní konzumace kávy</string>
+    <string name="daily_coffee">Denní dávka kávy v mililitrech</string>
+    <string name="app_version">Verze aplikace:</string>
+    <string name="home">Domů</string>
+    <string name="pay">Zaplatit</string>
+    <string name="rating">Hodnocení</string>
+    <string name="statistics">Statistiky</string>
+    <string name="app_title">Coffee App</string>
+    <string name="add_rating">Přidat hodnocení</string>
+    <string name="have_coffee">Přidat kávu</string>
+    <string name="app_info">O aplikaci</string>
+</resources>
